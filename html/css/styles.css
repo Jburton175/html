@@ -11289,7 +11289,7 @@ textarea.form-control-lg {
   }
 }
 body {
-  background-image: linear-gradient((47, 23, 15, 0.65), (47, 23, 15, 0.65)), url(/html/assets/);
+  background-image: linear-gradient((47, 23, 15, 0.65), (47, 23, 15, 0.65)), url(/html/html/assets/images/bg.jpg);
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
